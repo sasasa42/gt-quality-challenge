@@ -1,0 +1,6 @@
+robotframework-requests
+robotframework-databaselibrary
+robotframework-faker
+robotframework-seleniumlibrary
+robotframework-jsonlibrary
+webdrivermanager

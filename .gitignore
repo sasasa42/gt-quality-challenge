@@ -1,0 +1,4 @@
+*.xml
+*.html
+/venv
+__pycache__/utility.cpython-310.pyc
