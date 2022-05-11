@@ -6,8 +6,8 @@ const singleInsertUrl = domain+"/calculator/insert";
 const multipleInsertUrl = domain+'/calculator/insertMultiple';
 const rakeDb = domain+'/calculator/rakeDatabase';
 
-const single = JSON.parse(open('single.json'));
-const multiple = JSON.parse(open('multiple.json'));
+const single = JSON.parse(open('./json/single.json'));
+const multiple = JSON.parse(open('./json/multiple.json'));
 
 export const options = {
     vus: 10,
